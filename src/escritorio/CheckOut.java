@@ -195,7 +195,7 @@ public class CheckOut extends javax.swing.JInternalFrame {
 
         }
 
-
+        System.out.println("Bais");
     }//GEN-LAST:event_jButtonCerrarActionPerformed
 
     private void jTextFieldSalidaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextFieldSalidaActionPerformed
